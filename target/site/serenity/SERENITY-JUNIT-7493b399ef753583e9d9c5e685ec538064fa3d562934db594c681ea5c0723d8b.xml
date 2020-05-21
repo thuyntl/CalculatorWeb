@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="calculatordemo.features.search.CalculatorStory" skipped="0" tests="1" time="1.56" timestamp="2020-05-05 04:39:00"><testcase classname="calculatordemo.features.search.CalculatorStory" name="Show the result of addition between two numbers"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+calculatordemo.tasks.OpenTheApplication.performAs(OpenTheApplication.java:15)&#13;
+calculatordemo.features.search.CalculatorStory.show_the_result_of_addition_between_two_numbers(CalculatorStory.java:40)&#13;
+</system-err></testcase></testsuite>
